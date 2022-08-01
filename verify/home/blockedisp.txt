@@ -1,0 +1,6 @@
+ BLOCKED ISP || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+ ip : 884736629 || 2020-6-18 ----> 15:04:59
+
+ BLOCKED ISP || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+ ip : 884736629 || 2020-6-18 ----> 15:07:02
+
